@@ -567,7 +567,7 @@ footer {
 
   .outline-card-testimonial,
   .fill-in-card-testimonial {
-    height: 250px;
+    height: 300px;
   }
 
   /* Contato*/
@@ -615,5 +615,8 @@ footer {
   .container-icons {
     flex-direction: column;
     gap: 15px;
+  }
+  .img-developer{
+    width: 100%;
   }
 }
